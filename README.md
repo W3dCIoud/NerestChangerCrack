@@ -1,4 +1,4 @@
-RU:
+# RU:
 
 Кряк такого щедеврального продукта как NerestChanger.
 
@@ -22,7 +22,7 @@ RU:
 Ловкод, хорошая у тебя анти-крякерская защита. GG :D
 
 
-EN:
+# EN:
 
 A crack of such a masterpiece as NerestChanger.
 
