@@ -1,0 +1,14 @@
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\bin\Release\net8.0\NerestChangerCracked.exe
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\bin\Release\net8.0\NerestChangerCracked.deps.json
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\bin\Release\net8.0\NerestChangerCracked.runtimeconfig.json
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\bin\Release\net8.0\NerestChangerCracked.dll
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\bin\Release\net8.0\NerestChangerCracked.pdb
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.AssemblyInfoInputs.cache
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.AssemblyInfo.cs
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.csproj.CoreCompileInputs.cache
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.dll
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\refint\NerestChangerCracked.dll
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.pdb
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\NerestChangerCracked.genruntimeconfig.cache
+C:\Users\imcloudy\source\repos\NerestChangerCracked\NerestChangerCracked\obj\Release\net8.0\ref\NerestChangerCracked.dll
