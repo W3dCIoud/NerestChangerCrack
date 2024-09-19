@@ -6,10 +6,8 @@
 Удаление ключей пользователям просто так. 
 Я захотел. (самая тупая причина, знаю) 
 
-# Как установить?
-
-Готовый сбилдженный продукт находится в релизах. 
-Перекиньте все файлы в папку и запустите, и все заработает.
+# Почему он не работает?
+Код не допилен до конца. У меня лично все работает, у других почему то нет. Потом с этим разберусь, сейчас не к этому.
 
 # Вода.
 
@@ -31,9 +29,8 @@ Reason for the crack:
 Removing keys from users for no reason. 
 I wanted to. (the dumbest reason, I know)
 
-# How to install?
-
-The finished built product is in releases. 
+# Why doesn't it work?
+The code is not finished. Personally, everything works for me, but for some reason it doesn't for others. I'll figure it out later, not now.
 
 Drop all the files into a folder and run it, and everything will work.
 
