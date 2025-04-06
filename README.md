@@ -7,7 +7,7 @@
 Я захотел. (самая тупая причина, знаю) 
 
 # Почему он не работает?
-Код не допилен до конца. У меня лично все работает, у других почему то нет. Потом с этим разберусь, сейчас не к этому.
+Установите [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.202-windows-x64-installer)
 
 # Вода.
 
@@ -30,9 +30,7 @@ Removing keys from users for no reason.
 I wanted to. (the dumbest reason, I know)
 
 # Why doesn't it work?
-The code is not finished. Personally, everything works for me, but for some reason it doesn't for others. I'll figure it out later, not now.
-
-Drop all the files into a folder and run it, and everything will work.
+Install [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.202-windows-x64-installer)
 
 # Water.
 
