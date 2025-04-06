@@ -8,7 +8,7 @@
 # Почему он не работает?
 Установите [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.202-windows-x64-installer)
 
-Послание от меня:
+# Послание от меня:
 
 Ловкод, хорошая у тебя анти-крякерская защита. GG :D
 
@@ -24,6 +24,6 @@ Removing keys from users for no reason.
 # Why doesn't it work?
 Install [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.202-windows-x64-installer)
 
-Message from me:
+# Message from me:
 
-Lovcode, you have good anti-crack protection. GG :D
+Lowcode, you have good anti-crack protection. GG :D
