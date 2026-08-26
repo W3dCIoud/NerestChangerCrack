@@ -37,7 +37,7 @@ namespace NerestChanger
             }
             else
             {
-                Logs("Changer files detecting, download canceled.");
+                Logs("Changer files detected, download canceled.");
                 DeletingShit();
             }
         }
